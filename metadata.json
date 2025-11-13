@@ -1,0 +1,5 @@
+
+{
+  "name": "Painel de Manutenções de Frota",
+  "description": "Uma aplicação para controle e alertas de manutenção preventiva da frota, baseada em arquivos Excel. Exibe um dashboard com indicadores e uma lista de veículos com status de revisão."
+}
